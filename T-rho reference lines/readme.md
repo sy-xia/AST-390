@@ -1,1 +1,1 @@
-This folder contains files from my AST 341 Homework 6 notebook PDF and codes,  which demonstrated how the equations of reference lines ($P_{rad} = P_{gas}$, $P_{deg} = P_{gas}$, H ignition curve, He ignition curve) derived. Homework problems is by Prof. Michael Zingale.
+This folder contains files from my two AST 341 Homework problems notebooks and codes,  which demonstrated how the equations of reference lines ($P_{rad} = P_{gas}$, $P_{deg} = P_{gas}$, H ignition curve, He ignition curve) derived. Homework problems is by Prof. Michael Zingale.
